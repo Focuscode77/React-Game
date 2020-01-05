@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Arnold ",
+    "clicked": false,
+    "image": "https://i.pinimg.com/474x/05/71/dc/0571dc2b1f991f453d66b028889c18f8--caricatures.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bruce Lee",
+    "clicked": false,
+    "image": "https://i.pinimg.com/474x/c8/41/ad/c841ad5778798138b33f4453d7c3dfd0.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Betty Boop",
+    "clicked": false,
+    "image": "https://i.pinimg.com/474x/aa/25/4e/aa254e7951efd587e18c1c056e578ec8--celebrity-caricatures-marilyn-monroe.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sylvester Stallone",
+    "clicked": false,
+    "image": "https://i.pinimg.com/474x/dc/f4/af/dcf4afa5a57ab51213395b75d682f9d8--funny-caricatures-celebrity-caricatures.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Serena Willams",
+    "clicked": false,
+    "image": "https://i.pinimg.com/474x/e3/39/09/e33909e06989199ee2737caf47d4dc6d--caricature-art-celebrity-caricatures.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Usain Bolt",
+    "clicked": false,
+    "image": "https://i.pinimg.com/474x/44/b4/f5/44b4f521a60d5b6b1911425dbf0f98bd--usain-bolt-art-art.jpg"
+  }
+]
