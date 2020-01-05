@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import MemoryCard from '../MemoryCard';
-import images from '../../actors.json';
+import images from '../../fitness.json';
 import './MainGameContainer.css';
 
 class MainGameContainer extends Component {
