@@ -8,6 +8,8 @@ Users are only able to choose each fitness star one time in order to keep there 
 
 
 Coming Soon
+
+
 React-Game will be adding more cards to the game in the future of more fitness stars to increase diffculty. React-Game also has plans for new levels wants users reach a high score. 
 
 Try it out!
