@@ -1,6 +1,6 @@
 # React-Game
 
-React-Game is an application designed to allow users to pick cards at random of there favorite fitness star. The application uses distorted but intresting cool designs of the fitness stars to keep users entertained as they click away.
+React-Game is an application designed to allow users to pick cards at random of there favorite fitness star. The application uses distorted but intresting cool designs of fitness stars to keep users entertained as they click away.
 
 About the App
 
